@@ -36,7 +36,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link\n\ni Created by Cineflix\n REGARDS :- @cineflix2544\n\nHow to Use this Bot\n\n/start - start the bot or get posts\n/batch - create link for more than one posts\n/genlink - create link for one post.."
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link\n\ni Created by Cineflix\n REGARDS :- @cineflix2544\n\nHow to Use this Bo?t\n\n/start - start the bot or get posts\n/batch - create link for more than one posts\n/genlink - create link for one post.."
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
